@@ -6,6 +6,12 @@
   <br>
 </h1>
 
+.round-image {
+    border-radius: 50%;
+    width: 200px; /* Adjust the size as needed */
+    height: 200px; /* Ensure the height and width are equal for a perfect circle */
+}
+
 <h4 align="center">Engineered to Survive</h4>
 
 <h4 align="left">We are a passionate team of developers committed to creating innovative, high-quality applications that make life easier. Our startup is fueled by a love for technology and a drive to deliver cutting-edge solutions tailored to the needs of our clients. We collaborate, experiment, and stay up-to-date with the latest trends and technologies to ensure our projects are both reliable and future-ready.</h4>
