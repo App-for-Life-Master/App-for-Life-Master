@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/App-for-Life-Master/App-for-Life-Master/blob/972b6f5fd75c266d9acaa68709437150839c484b/App-for-Life.png" alt="Avatar" style="width:200px; height:200px; border-radius:100%;"></a>
+  <a><img src="https://github.com/App-for-Life-Master/App-for-Life-Master/blob/972b6f5fd75c266d9acaa68709437150839c484b/App-for-Life.png"  width="200"></a>
   <br>
   App-for-Life
   <br>
