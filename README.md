@@ -1,16 +1,10 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/App-for-Life-Master/App-for-Life-Master/blob/972b6f5fd75c266d9acaa68709437150839c484b/App-for-Life.png" width="200" class="round-image"></a>
+  <a><img src="https://github.com/App-for-Life-Master/App-for-Life-Master/blob/972b6f5fd75c266d9acaa68709437150839c484b/App-for-Life.png" alt="Avatar" style="width:200px; height:200px; border-radius:100%;"></a>
   <br>
   App-for-Life
   <br>
 </h1>
-
-.round-image {
-    border-radius: 50%;
-    width: 200px; /* Adjust the size as needed */
-    height: 200px; /* Ensure the height and width are equal for a perfect circle */
-}
 
 <h4 align="center">Engineered to Survive</h4>
 
